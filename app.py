@@ -44,6 +44,7 @@ SESSIONS = {}
 # ═══════════════════════════════════════════════════════════════════
 
 LANGUAGES = {
+    "English": "en",
     "Hindi": "hi",
     "Spanish": "es",
     "French": "fr",
